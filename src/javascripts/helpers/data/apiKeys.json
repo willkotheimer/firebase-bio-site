@@ -1,0 +1,12 @@
+{
+  "firebaseKeys": {
+    "apiKey": "AIzaSyA3yrUzIPsAK2bGFLwKbA5w2sJWlQNv6DA",
+    "authDomain": "portfolio-e85c9.firebaseapp.com",
+    "databaseURL": "https://portfolio-e85c9.firebaseio.com",
+    "projectId": "portfolio-e85c9",
+    "storageBucket": "portfolio-e85c9.appspot.com",
+    "messagingSenderId": "161671298012",
+    "appId": "1:161671298012:web:8f8ff706a697b5a57a2d19",
+    "measurementId": "G-36T3EKVKRV"
+  }
+}
